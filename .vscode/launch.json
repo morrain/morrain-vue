@@ -13,7 +13,7 @@
                 "run-script",
                 "debug:build"
             ],
-            "port": 5858
+            "port": 5859
         }
     ]
     
